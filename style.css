@@ -39,6 +39,9 @@ article p {
 .navbar-brand {
   flex: 1; }
 
+.navbar-light .navbar-toggler {
+  border-color: #342A4C; }
+
 @media (min-width: 768px) {
   .bd-navbar {
     position: -webkit-sticky;

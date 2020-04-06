@@ -50,6 +50,9 @@ article p {
 .navbar-brand {
   flex: 1;
 }
+.navbar-light .navbar-toggler {
+  border-color: $purple;
+}
 .bd-navbar {
   @media (min-width: 768px) {
     position: -webkit-sticky;
